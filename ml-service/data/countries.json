@@ -1,0 +1,1657 @@
+{
+  "albania": {
+    "capital": "Tirana",
+    "continent": "Europe",
+    "language": "Albanian",
+    "currency": "Lek",
+    "population": "2.8 million",
+    "fun_fact": "Known for its bunkers from the communist era",
+    "flag": "Red with black double-headed eagle",
+    "neighbors": "Montenegro, Kosovo, North Macedonia, Greece"
+  },
+  "andorra": {
+    "capital": "Andorra la Vella",
+    "continent": "Europe",
+    "language": "Catalan",
+    "currency": "Euro",
+    "population": "0.08 million",
+    "fun_fact": "One of the smallest countries in Europe",
+    "flag": "Blue-yellow-red vertical tricolor with coat of arms",
+    "neighbors": "France, Spain"
+  },
+  "austria": {
+    "capital": "Vienna",
+    "continent": "Europe",
+    "language": "German",
+    "currency": "Euro",
+    "population": "9 million",
+    "fun_fact": "Birthplace of Mozart",
+    "flag": "Red-white-red horizontal tricolor",
+    "neighbors": "Germany, Czech Republic, Slovakia, Hungary, Slovenia, Italy, Switzerland, Liechtenstein"
+  },
+  "belarus": {
+    "capital": "Minsk",
+    "continent": "Europe",
+    "language": "Belarusian and Russian",
+    "currency": "Belarusian Ruble",
+    "population": "9.2 million",
+    "fun_fact": "Over 40% of the country is forested",
+    "flag": "Red and green with traditional pattern",
+    "neighbors": "Latvia, Lithuania, Poland, Russia, Ukraine"
+  },
+  "belgium": {
+    "capital": "Brussels",
+    "continent": "Europe",
+    "language": "Dutch, French, German",
+    "currency": "Euro",
+    "population": "11.7 million",
+    "fun_fact": "Headquarters of the European Union",
+    "flag": "Black-yellow-red vertical tricolor",
+    "neighbors": "France, Netherlands, Germany, Luxembourg"
+  },
+  "bosnia_and_herzegovina": {
+    "capital": "Sarajevo",
+    "continent": "Europe",
+    "language": "Bosnian, Croatian, Serbian",
+    "currency": "Convertible Mark",
+    "population": "3.2 million",
+    "fun_fact": "Has one of the shortest coastlines in the world",
+    "flag": "Blue with yellow triangle and white stars",
+    "neighbors": "Croatia, Serbia, Montenegro"
+  },
+  "bulgaria": {
+    "capital": "Sofia",
+    "continent": "Europe",
+    "language": "Bulgarian",
+    "currency": "Bulgarian Lev",
+    "population": "6.8 million",
+    "fun_fact": "Uses the Cyrillic alphabet",
+    "flag": "White-green-red horizontal tricolor",
+    "neighbors": "Romania, Serbia, North Macedonia, Greece, Turkey"
+  },
+  "croatia": {
+    "capital": "Zagreb",
+    "continent": "Europe",
+    "language": "Croatian",
+    "currency": "Euro",
+    "population": "3.9 million",
+    "fun_fact": "Has over 1,000 islands",
+    "flag": "Red-white-blue horizontal with coat of arms",
+    "neighbors": "Slovenia, Hungary, Serbia, Bosnia and Herzegovina, Montenegro"
+  },
+  "cyprus": {
+    "capital": "Nicosia",
+    "continent": "Europe",
+    "language": "Greek and Turkish",
+    "currency": "Euro",
+    "population": "1.2 million",
+    "fun_fact": "Only divided capital city in Europe",
+    "flag": "White with copper island silhouette",
+    "neighbors": "None (island nation)"
+  },
+  "czech_republic": {
+    "capital": "Prague",
+    "continent": "Europe",
+    "language": "Czech",
+    "currency": "Czech Koruna",
+    "population": "10.9 million",
+    "fun_fact": "Home to the largest ancient castle complex",
+    "flag": "White and red with blue triangle",
+    "neighbors": "Germany, Austria, Slovakia, Poland"
+  },
+  "denmark": {
+      "capital": "Copenhagen",
+      "continent": "Europe",
+      "language": "Danish",
+      "currency": "Danish Krone",
+      "population": "5.9 million",
+      "fun_fact": "Consistently ranked among the happiest countries",
+      "flag": "Red with white Scandinavian cross",
+      "neighbors": "Germany"
+    },
+    "estonia": {
+      "capital": "Tallinn",
+      "continent": "Europe",
+      "language": "Estonian",
+      "currency": "Euro",
+      "population": "1.3 million",
+      "fun_fact": "One of the most digitally advanced countries",
+      "flag": "Blue-black-white horizontal tricolor",
+      "neighbors": "Latvia, Russia"
+    },
+    "finland": {
+      "capital": "Helsinki",
+      "continent": "Europe",
+      "language": "Finnish and Swedish",
+      "currency": "Euro",
+      "population": "5.6 million",
+      "fun_fact": "Known as the land of a thousand lakes",
+      "flag": "White with blue Scandinavian cross",
+      "neighbors": "Sweden, Norway, Russia"
+    },
+    "france": {
+      "capital": "Paris",
+      "continent": "Europe",
+      "language": "French",
+      "currency": "Euro",
+      "population": "67 million",
+      "fun_fact": "Most visited country in the world",
+      "flag": "Blue-white-red vertical tricolor",
+      "neighbors": "Belgium, Luxembourg, Germany, Switzerland, Italy, Spain"
+    },
+    "germany": {
+      "capital": "Berlin",
+      "continent": "Europe",
+      "language": "German",
+      "currency": "Euro",
+      "population": "83 million",
+      "fun_fact": "Largest economy in Europe",
+      "flag": "Black-red-gold horizontal tricolor",
+      "neighbors": "Denmark, Poland, Czech Republic, Austria, Switzerland, France, Luxembourg, Belgium, Netherlands"
+    },
+    "greece": {
+      "capital": "Athens",
+      "continent": "Europe",
+      "language": "Greek",
+      "currency": "Euro",
+      "population": "10.3 million",
+      "fun_fact": "Birthplace of democracy",
+      "flag": "Blue and white stripes with cross",
+      "neighbors": "Albania, North Macedonia, Bulgaria, Turkey"
+    },
+    "hungary": {
+      "capital": "Budapest",
+      "continent": "Europe",
+      "language": "Hungarian",
+      "currency": "Forint",
+      "population": "9.6 million",
+      "fun_fact": "Inventor of the Rubik’s Cube",
+      "flag": "Red-white-green horizontal tricolor",
+      "neighbors": "Austria, Slovakia, Ukraine, Romania, Serbia, Croatia, Slovenia"
+    },
+    "iceland": {
+      "capital": "Reykjavik",
+      "continent": "Europe",
+      "language": "Icelandic",
+      "currency": "Icelandic Krona",
+      "population": "0.39 million",
+      "fun_fact": "No mosquitoes live there",
+      "flag": "Blue with red cross outlined in white",
+      "neighbors": "None (island nation)"
+    },
+    "ireland": {
+      "capital": "Dublin",
+      "continent": "Europe",
+      "language": "Irish and English",
+      "currency": "Euro",
+      "population": "5.1 million",
+      "fun_fact": "Known as the Emerald Isle",
+      "flag": "Green-white-orange vertical tricolor",
+      "neighbors": "United Kingdom"
+    },
+    "italy": {
+      "capital": "Rome",
+      "continent": "Europe",
+      "language": "Italian",
+      "currency": "Euro",
+      "population": "60 million",
+      "fun_fact": "Has the most UNESCO World Heritage Sites",
+      "flag": "Green-white-red vertical tricolor",
+      "neighbors": "France, Switzerland, Austria, Slovenia, San Marino, Vatican City"
+    },
+    "latvia": {
+      "capital": "Riga",
+      "continent": "Europe",
+      "language": "Latvian",
+      "currency": "Euro",
+      "population": "1.9 million",
+      "fun_fact": "Home to one of the widest waterfalls in Europe",
+      "flag": "Red-white-red horizontal tricolor",
+      "neighbors": "Estonia, Lithuania, Russia, Belarus"
+    },
+    "liechtenstein": {
+      "capital": "Vaduz",
+      "continent": "Europe",
+      "language": "German",
+      "currency": "Swiss Franc",
+      "population": "0.04 million",
+      "fun_fact": "One of the world’s richest countries per capita",
+      "flag": "Blue and red with crown",
+      "neighbors": "Switzerland, Austria"
+    },
+    "lithuania": {
+      "capital": "Vilnius",
+      "continent": "Europe",
+      "language": "Lithuanian",
+      "currency": "Euro",
+      "population": "2.8 million",
+      "fun_fact": "Last pagan state in Europe to convert to Christianity",
+      "flag": "Yellow-green-red horizontal tricolor",
+      "neighbors": "Latvia, Belarus, Poland, Russia"
+    },
+    "luxembourg": {
+      "capital": "Luxembourg",
+      "continent": "Europe",
+      "language": "Luxembourgish, French, German",
+      "currency": "Euro",
+      "population": "0.67 million",
+      "fun_fact": "One of the smallest but wealthiest countries",
+      "flag": "Red-white-light blue horizontal tricolor",
+      "neighbors": "Belgium, France, Germany"
+    },
+    "malta": {
+      "capital": "Valletta",
+      "continent": "Europe",
+      "language": "Maltese and English",
+      "currency": "Euro",
+      "population": "0.54 million",
+      "fun_fact": "One of the smallest and most densely populated countries",
+      "flag": "White and red vertical with George Cross",
+      "neighbors": "None (island nation)"
+    },
+    "moldova": {
+      "capital": "Chișinău",
+      "continent": "Europe",
+      "language": "Romanian",
+      "currency": "Moldovan Leu",
+      "population": "2.6 million",
+      "fun_fact": "Home to one of the world’s largest wine cellars",
+      "flag": "Blue-yellow-red vertical tricolor",
+      "neighbors": "Romania, Ukraine"
+    },
+    "monaco": {
+      "capital": "Monaco",
+      "continent": "Europe",
+      "language": "French",
+      "currency": "Euro",
+      "population": "0.04 million",
+      "fun_fact": "Second smallest country in the world",
+      "flag": "Red and white horizontal bicolor",
+      "neighbors": "France"
+    },
+    "montenegro": {
+      "capital": "Podgorica",
+      "continent": "Europe",
+      "language": "Montenegrin",
+      "currency": "Euro",
+      "population": "0.62 million",
+      "fun_fact": "Name means 'Black Mountain'",
+      "flag": "Red with golden border and coat of arms",
+      "neighbors": "Croatia, Bosnia and Herzegovina, Serbia, Kosovo, Albania"
+    },
+    "netherlands": {
+      "capital": "Amsterdam",
+      "continent": "Europe",
+      "language": "Dutch",
+      "currency": "Euro",
+      "population": "17.9 million",
+      "fun_fact": "Large parts of the country are below sea level",
+      "flag": "Red-white-blue horizontal tricolor",
+      "neighbors": "Belgium, Germany"
+    },
+    "north_macedonia": {
+      "capital": "Skopje",
+      "continent": "Europe",
+      "language": "Macedonian",
+      "currency": "Denar",
+      "population": "2.1 million",
+      "fun_fact": "Landlocked Balkan country",
+      "flag": "Red with yellow sun rays",
+      "neighbors": "Kosovo, Serbia, Bulgaria, Greece, Albania"
+    },
+    "norway": {
+      "capital": "Oslo",
+      "continent": "Europe",
+      "language": "Norwegian",
+      "currency": "Norwegian Krone",
+      "population": "5.5 million",
+      "fun_fact": "Consistently ranked high in quality of life",
+      "flag": "Red with blue cross outlined in white",
+      "neighbors": "Sweden, Finland, Russia"
+    },
+    "poland": {
+      "capital": "Warsaw",
+      "continent": "Europe",
+      "language": "Polish",
+      "currency": "Zloty",
+      "population": "38 million",
+      "fun_fact": "Never officially surrendered in WWII",
+      "flag": "White-red horizontal bicolor",
+      "neighbors": "Germany, Czech Republic, Slovakia, Ukraine, Belarus, Lithuania, Russia"
+    },
+    "portugal": {
+      "capital": "Lisbon",
+      "continent": "Europe",
+      "language": "Portuguese",
+      "currency": "Euro",
+      "population": "10.3 million",
+      "fun_fact": "Oldest country in Europe with stable borders",
+      "flag": "Green and red with coat of arms",
+      "neighbors": "Spain"
+    },
+    "romania": {
+      "capital": "Bucharest",
+      "continent": "Europe",
+      "language": "Romanian",
+      "currency": "Romanian Leu",
+      "population": "19 million",
+      "fun_fact": "Home to the legend of Dracula",
+      "flag": "Blue-yellow-red vertical tricolor",
+      "neighbors": "Hungary, Serbia, Bulgaria, Ukraine, Moldova"
+    },
+    "russia": {
+      "capital": "Moscow",
+      "continent": "Europe / Asia",
+      "language": "Russian",
+      "currency": "Russian Ruble",
+      "population": "146 million",
+      "fun_fact": "Largest country in the world by area",
+      "flag": "White-blue-red horizontal tricolor",
+      "neighbors": "Norway, Finland, Estonia, Latvia, Lithuania, Poland, Belarus, Ukraine, Georgia, Azerbaijan, Kazakhstan, China, Mongolia, North Korea"
+    },
+    "san_marino": {
+      "capital": "San Marino",
+      "continent": "Europe",
+      "language": "Italian",
+      "currency": "Euro",
+      "population": "0.03 million",
+      "fun_fact": "Oldest republic in the world",
+      "flag": "White and light blue horizontal with coat of arms",
+      "neighbors": "Italy"
+    },
+    "serbia": {
+      "capital": "Belgrade",
+      "continent": "Europe",
+      "language": "Serbian",
+      "currency": "Serbian Dinar",
+      "population": "6.6 million",
+      "fun_fact": "Belgrade is one of the oldest cities in Europe",
+      "flag": "Red-blue-white horizontal tricolor",
+      "neighbors": "Hungary, Romania, Bulgaria, North Macedonia, Croatia, Bosnia and Herzegovina, Montenegro, Kosovo"
+    },
+    "slovakia": {
+      "capital": "Bratislava",
+      "continent": "Europe",
+      "language": "Slovak",
+      "currency": "Euro",
+      "population": "5.4 million",
+      "fun_fact": "Has the highest number of castles per capita",
+      "flag": "White-blue-red horizontal with coat of arms",
+      "neighbors": "Czech Republic, Austria, Hungary, Poland, Ukraine"
+    },
+    "slovenia": {
+      "capital": "Ljubljana",
+      "continent": "Europe",
+      "language": "Slovene",
+      "currency": "Euro",
+      "population": "2.1 million",
+      "fun_fact": "One of the greenest countries in Europe",
+      "flag": "White-blue-red horizontal with coat of arms",
+      "neighbors": "Italy, Austria, Hungary, Croatia"
+    },
+    "spain": {
+      "capital": "Madrid",
+      "continent": "Europe",
+      "language": "Spanish",
+      "currency": "Euro",
+      "population": "47 million",
+      "fun_fact": "Produces most olive oil worldwide",
+      "flag": "Red-yellow-red horizontal with coat of arms",
+      "neighbors": "France, Portugal, Andorra"
+    },
+    "sweden": {
+      "capital": "Stockholm",
+      "continent": "Europe",
+      "language": "Swedish",
+      "currency": "Swedish Krona",
+      "population": "10.5 million",
+      "fun_fact": "Known for innovation and design",
+      "flag": "Blue with yellow Scandinavian cross",
+      "neighbors": "Norway, Finland"
+    },
+    "switzerland": {
+      "capital": "Bern",
+      "continent": "Europe",
+      "language": "German, French, Italian, Romansh",
+      "currency": "Swiss Franc",
+      "population": "8.7 million",
+      "fun_fact": "Officially neutral since 1815",
+      "flag": "Red with white cross",
+      "neighbors": "France, Germany, Austria, Italy, Liechtenstein"
+    },
+    "ukraine": {
+      "capital": "Kyiv",
+      "continent": "Europe",
+      "language": "Ukrainian",
+      "currency": "Hryvnia",
+      "population": "37 million",
+      "fun_fact": "Largest country entirely in Europe",
+      "flag": "Blue and yellow horizontal bicolor",
+      "neighbors": "Poland, Slovakia, Hungary, Romania, Moldova, Belarus, Russia"
+    },
+    "united_kingdom": {
+      "capital": "London",
+      "continent": "Europe",
+      "language": "English",
+      "currency": "Pound Sterling",
+      "population": "67 million",
+      "fun_fact": "Birthplace of the Industrial Revolution",
+      "flag": "Union Jack",
+      "neighbors": "Ireland"
+    },
+    "vatican_city": {
+      "capital": "Vatican City",
+      "continent": "Europe",
+      "language": "Italian and Latin",
+      "currency": "Euro",
+      "population": "0.001 million",
+      "fun_fact": "Smallest country in the world",
+      "flag": "Yellow and white vertical with papal emblem",
+      "neighbors": "Italy"
+    },
+    "algeria": {
+      "capital": "Algiers",
+      "continent": "Africa",
+      "language": "Arabic",
+      "currency": "Algerian Dinar",
+      "population": "45 million",
+      "fun_fact": "Largest country in Africa by land area",
+      "flag": "Green and white with red crescent and star",
+      "neighbors": "Tunisia, Libya, Niger, Mali, Mauritania, Morocco"
+    },
+    "angola": {
+      "capital": "Luanda",
+      "continent": "Africa",
+      "language": "Portuguese",
+      "currency": "Kwanza",
+      "population": "35 million",
+      "fun_fact": "One of Africa’s fastest growing economies",
+      "flag": "Red and black with yellow emblem",
+      "neighbors": "DR Congo, Zambia, Namibia"
+    },
+    "benin": {
+      "capital": "Porto-Novo",
+      "continent": "Africa",
+      "language": "French",
+      "currency": "West African CFA franc",
+      "population": "13 million",
+      "fun_fact": "Birthplace of the Vodun religion",
+      "flag": "Green, yellow and red",
+      "neighbors": "Togo, Burkina Faso, Niger, Nigeria"
+    },
+    "botswana": {
+      "capital": "Gaborone",
+      "continent": "Africa",
+      "language": "English",
+      "currency": "Pula",
+      "population": "2.6 million",
+      "fun_fact": "Stable democracy since independence",
+      "flag": "Light blue with black and white stripe",
+      "neighbors": "Namibia, Zambia, Zimbabwe, South Africa"
+    },
+    "burkina_faso": {
+      "capital": "Ouagadougou",
+      "continent": "Africa",
+      "language": "French",
+      "currency": "West African CFA franc",
+      "population": "23 million",
+      "fun_fact": "Name means 'Land of Honest People'",
+      "flag": "Red and green with yellow star",
+      "neighbors": "Mali, Niger, Benin, Togo, Ghana, Ivory Coast"
+    },
+    "burundi": {
+      "capital": "Gitega",
+      "continent": "Africa",
+      "language": "Kirundi, French, English",
+      "currency": "Burundian Franc",
+      "population": "13 million",
+      "fun_fact": "One of the most densely populated countries in Africa",
+      "flag": "White saltire with red and green fields",
+      "neighbors": "Rwanda, Tanzania, DR Congo"
+    },
+    "cabo_verde": {
+      "capital": "Praia",
+      "continent": "Africa",
+      "language": "Portuguese",
+      "currency": "Cape Verdean Escudo",
+      "population": "0.6 million",
+      "fun_fact": "Island nation off West Africa",
+      "flag": "Blue with red and white stripes and yellow stars",
+      "neighbors": "None (island nation)"
+    },
+    "cameroon": {
+      "capital": "Yaoundé",
+      "continent": "Africa",
+      "language": "French and English",
+      "currency": "Central African CFA franc",
+      "population": "28 million",
+      "fun_fact": "Known as 'Africa in miniature'",
+      "flag": "Green-red-yellow vertical with star",
+      "neighbors": "Nigeria, Chad, Central African Republic, Equatorial Guinea, Gabon, Republic of the Congo"
+    },
+    "central_african_republic": {
+      "capital": "Bangui",
+      "continent": "Africa",
+      "language": "French and Sango",
+      "currency": "Central African CFA franc",
+      "population": "5.5 million",
+      "fun_fact": "Rich in natural resources",
+      "flag": "Blue, white, green, yellow with red stripe",
+      "neighbors": "Chad, Sudan, South Sudan, DR Congo, Republic of the Congo, Cameroon"
+    },
+    "chad": {
+      "capital": "N'Djamena",
+      "continent": "Africa",
+      "language": "French and Arabic",
+      "currency": "Central African CFA franc",
+      "population": "18 million",
+      "fun_fact": "Contains part of the Sahara Desert",
+      "flag": "Blue-yellow-red vertical tricolor",
+      "neighbors": "Libya, Sudan, Central African Republic, Cameroon, Nigeria, Niger"
+    },
+    "comoros": {
+      "capital": "Moroni",
+      "continent": "Africa",
+      "language": "Comorian, Arabic and French",
+      "currency": "Comorian Franc",
+      "population": "0.9 million",
+      "fun_fact": "One of the smallest African countries",
+      "flag": "Green with white crescent and four stars",
+      "neighbors": "None (island nation)"
+    },
+    "republic_of_the_congo": {
+      "capital": "Brazzaville",
+      "continent": "Africa",
+      "language": "French",
+      "currency": "Central African CFA franc",
+      "population": "6 million",
+      "fun_fact": "Capital faces Kinshasa across the Congo River",
+      "flag": "Green-yellow-red diagonal tricolor",
+      "neighbors": "Gabon, Cameroon, Central African Republic, DR Congo, Angola"
+    },
+    "democratic_republic_of_the_congo": {
+      "capital": "Kinshasa",
+      "continent": "Africa",
+      "language": "French",
+      "currency": "Congolese Franc",
+      "population": "102 million",
+      "fun_fact": "Second largest country in Africa by area",
+      "flag": "Sky blue with red diagonal stripe and yellow star",
+      "neighbors": "Republic of the Congo, Central African Republic, South Sudan, Uganda, Rwanda, Burundi, Tanzania, Zambia, Angola"
+    },
+    "cote_d_ivoire": {
+      "capital": "Yamoussoukro",
+      "continent": "Africa",
+      "language": "French",
+      "currency": "West African CFA franc",
+      "population": "29 million",
+      "fun_fact": "World’s largest cocoa producer",
+      "flag": "Orange-white-green vertical tricolor",
+      "neighbors": "Liberia, Guinea, Mali, Burkina Faso, Ghana"
+    },
+    "djibouti": {
+      "capital": "Djibouti",
+      "continent": "Africa",
+      "language": "French and Arabic",
+      "currency": "Djiboutian Franc",
+      "population": "1.1 million",
+      "fun_fact": "Strategic location at the Red Sea entrance",
+      "flag": "Light blue and green with white triangle and red star",
+      "neighbors": "Eritrea, Ethiopia, Somalia"
+    },
+    "egypt": {
+      "capital": "Cairo",
+      "continent": "Africa",
+      "language": "Arabic",
+      "currency": "Egyptian Pound",
+      "population": "110 million",
+      "fun_fact": "Home to the ancient pyramids of Giza",
+      "flag": "Red-white-black horizontal tricolor with emblem",
+      "neighbors": "Libya, Sudan, Israel"
+    },
+    "equatorial_guinea": {
+      "capital": "Malabo",
+      "continent": "Africa",
+      "language": "Spanish, French and Portuguese",
+      "currency": "Central African CFA franc",
+      "population": "1.7 million",
+      "fun_fact": "Only African country with Spanish as an official language",
+      "flag": "Green-white-red horizontal with blue triangle",
+      "neighbors": "Cameroon, Gabon"
+    },
+    "eritrea": {
+      "capital": "Asmara",
+      "continent": "Africa",
+      "language": "Tigrinya, Arabic and English",
+      "currency": "Nakfa",
+      "population": "3.7 million",
+      "fun_fact": "One of the youngest countries in Africa",
+      "flag": "Red, green and blue with olive wreath",
+      "neighbors": "Sudan, Ethiopia, Djibouti"
+    },
+    "eswatini": {
+      "capital": "Mbabane",
+      "continent": "Africa",
+      "language": "Swazi and English",
+      "currency": "Lilangeni",
+      "population": "1.2 million",
+      "fun_fact": "Last absolute monarchy in Africa",
+      "flag": "Blue, red and yellow with shield",
+      "neighbors": "South Africa, Mozambique"
+    },
+    "ethiopia": {
+      "capital": "Addis Ababa",
+      "continent": "Africa",
+      "language": "Amharic",
+      "currency": "Birr",
+      "population": "125 million",
+      "fun_fact": "Never colonized by a European power",
+      "flag": "Green-yellow-red horizontal tricolor",
+      "neighbors": "Eritrea, Djibouti, Somalia, Kenya, South Sudan, Sudan"
+    },
+    "gabon": {
+      "capital": "Libreville",
+      "continent": "Africa",
+      "language": "French",
+      "currency": "Central African CFA franc",
+      "population": "2.4 million",
+      "fun_fact": "Over 80% of the country is rainforest",
+      "flag": "Green-yellow-blue horizontal tricolor",
+      "neighbors": "Equatorial Guinea, Cameroon, Republic of the Congo"
+    },
+    "gambia": {
+      "capital": "Banjul",
+      "continent": "Africa",
+      "language": "English",
+      "currency": "Dalasi",
+      "population": "2.7 million",
+      "fun_fact": "Smallest country on mainland Africa",
+      "flag": "Red, blue and green with white stripes",
+      "neighbors": "Senegal"
+    },
+    "ghana": {
+      "capital": "Accra",
+      "continent": "Africa",
+      "language": "English",
+      "currency": "Cedi",
+      "population": "34 million",
+      "fun_fact": "First sub-Saharan African country to gain independence",
+      "flag": "Red-yellow-green horizontal with black star",
+      "neighbors": "Ivory Coast, Burkina Faso, Togo"
+    },
+    "guinea": {
+      "capital": "Conakry",
+      "continent": "Africa",
+      "language": "French",
+      "currency": "Guinean Franc",
+      "population": "14 million",
+      "fun_fact": "Source of many major West African rivers",
+      "flag": "Red-yellow-green vertical tricolor",
+      "neighbors": "Guinea-Bissau, Senegal, Mali, Ivory Coast, Liberia, Sierra Leone"
+    },
+    "guinea_bissau": {
+      "capital": "Bissau",
+      "continent": "Africa",
+      "language": "Portuguese",
+      "currency": "West African CFA franc",
+      "population": "2.1 million",
+      "fun_fact": "Known for the Bijagós Islands",
+      "flag": "Red with black star, yellow and green stripes",
+      "neighbors": "Senegal, Guinea"
+    },
+    "kenya": {
+      "capital": "Nairobi",
+      "continent": "Africa",
+      "language": "Swahili and English",
+      "currency": "Kenyan Shilling",
+      "population": "55 million",
+      "fun_fact": "Famous for its wildlife safaris",
+      "flag": "Black-red-green with white stripes and shield",
+      "neighbors": "Uganda, Tanzania, South Sudan, Ethiopia, Somalia"
+    },
+    "lesotho": {
+      "capital": "Maseru",
+      "continent": "Africa",
+      "language": "Sesotho and English",
+      "currency": "Loti",
+      "population": "2.3 million",
+      "fun_fact": "Entire country lies above 1,000 meters elevation",
+      "flag": "Blue, white and green with black emblem",
+      "neighbors": "South Africa"
+    },
+    "liberia": {
+      "capital": "Monrovia",
+      "continent": "Africa",
+      "language": "English",
+      "currency": "Liberian Dollar",
+      "population": "5.4 million",
+      "fun_fact": "Founded by freed American slaves",
+      "flag": "Similar to the US flag with one star",
+      "neighbors": "Sierra Leone, Guinea, Ivory Coast"
+    },
+    "libya": {
+      "capital": "Tripoli",
+      "continent": "Africa",
+      "language": "Arabic",
+      "currency": "Libyan Dinar",
+      "population": "7 million",
+      "fun_fact": "Mostly covered by the Sahara Desert",
+      "flag": "Red-black-green with crescent and star",
+      "neighbors": "Tunisia, Algeria, Niger, Chad, Sudan, Egypt"
+    },
+    "madagascar": {
+      "capital": "Antananarivo",
+      "continent": "Africa",
+      "language": "Malagasy and French",
+      "currency": "Ariary",
+      "population": "30 million",
+      "fun_fact": "Over 90% of wildlife is found nowhere else",
+      "flag": "White vertical with red and green horizontals",
+      "neighbors": "None (island nation)"
+    },
+    "malawi": {
+      "capital": "Lilongwe",
+      "continent": "Africa",
+      "language": "English and Chichewa",
+      "currency": "Malawian Kwacha",
+      "population": "20 million",
+      "fun_fact": "Known as the Warm Heart of Africa",
+      "flag": "Black-red-green horizontal with rising sun",
+      "neighbors": "Zambia, Tanzania, Mozambique"
+    },
+    "mali": {
+      "capital": "Bamako",
+      "continent": "Africa",
+      "language": "French",
+      "currency": "West African CFA franc",
+      "population": "23 million",
+      "fun_fact": "Once home to the Mali Empire",
+      "flag": "Green-yellow-red vertical tricolor",
+      "neighbors": "Algeria, Niger, Burkina Faso, Ivory Coast, Guinea, Senegal, Mauritania"
+    },
+    "mauritania": {
+      "capital": "Nouakchott",
+      "continent": "Africa",
+      "language": "Arabic",
+      "currency": "Ouguiya",
+      "population": "4.9 million",
+      "fun_fact": "Mostly desert territory",
+      "flag": "Green with yellow crescent and star",
+      "neighbors": "Western Sahara, Algeria, Mali, Senegal"
+    },
+    "mauritius": {
+      "capital": "Port Louis",
+      "continent": "Africa",
+      "language": "English",
+      "currency": "Mauritian Rupee",
+      "population": "1.3 million",
+      "fun_fact": "Former home of the extinct dodo",
+      "flag": "Red-blue-yellow-green horizontal stripes",
+      "neighbors": "None (island nation)"
+    },
+    "morocco": {
+      "capital": "Rabat",
+      "continent": "Africa",
+      "language": "Arabic",
+      "currency": "Moroccan Dirham",
+      "population": "37 million",
+      "fun_fact": "Home to one of the oldest universities in the world",
+      "flag": "Red with green pentagram",
+      "neighbors": "Algeria, Western Sahara"
+    },
+    "mozambique": {
+      "capital": "Maputo",
+      "continent": "Africa",
+      "language": "Portuguese",
+      "currency": "Mozambican Metical",
+      "population": "33 million",
+      "fun_fact": "Known for its coastline along the Indian Ocean",
+      "neighbors": "Tanzania, Malawi, Zambia, Zimbabwe, South Africa, Eswatini"
+    },
+    "namibia": {
+      "capital": "Windhoek",
+      "continent": "Africa",
+      "language": "English",
+      "currency": "Namibian Dollar",
+      "population": "2.5 million",
+      "fun_fact": "Home to the Namib Desert, one of the oldest deserts in the world",
+      "neighbors": "Angola, Zambia, Botswana, South Africa"
+    },
+    "niger": {
+      "capital": "Niamey",
+      "continent": "Africa",
+      "language": "French",
+      "currency": "West African CFA franc",
+      "population": "25 million",
+      "fun_fact": "Mostly desert, part of the Sahara",
+      "neighbors": "Algeria, Libya, Chad, Nigeria, Benin, Burkina Faso, Mali"
+    },
+    "nigeria": {
+      "capital": "Abuja",
+      "continent": "Africa",
+      "language": "English",
+      "currency": "Nigerian Naira",
+      "population": "223 million",
+      "fun_fact": "Most populous country in Africa",
+      "neighbors": "Benin, Niger, Chad, Cameroon"
+    },
+    "rwanda": {
+      "capital": "Kigali",
+      "continent": "Africa",
+      "language": "Kinyarwanda, French, English",
+      "currency": "Rwandan Franc",
+      "population": "13 million",
+      "fun_fact": "Known as the 'Land of a Thousand Hills'",
+      "neighbors": "Uganda, Tanzania, Burundi, DR Congo"
+    },
+    "saint_helena": {
+      "capital": "Jamestown",
+      "continent": "Africa",
+      "language": "English",
+      "currency": "Saint Helena Pound",
+      "population": "0.005 million",
+      "fun_fact": "Remote island in the South Atlantic",
+      "neighbors": "None (island territory)"
+    },
+    "senegal": {
+      "capital": "Dakar",
+      "continent": "Africa",
+      "language": "French",
+      "currency": "West African CFA franc",
+      "population": "17 million",
+      "fun_fact": "Westernmost country in mainland Africa",
+      "neighbors": "Mauritania, Mali, Guinea, Guinea-Bissau, The Gambia"
+    },
+    "seychelles": {
+      "capital": "Victoria",
+      "continent": "Africa",
+      "language": "English, French, Seychellois Creole",
+      "currency": "Seychellois Rupee",
+      "population": "0.1 million",
+      "fun_fact": "Archipelago of 115 islands in the Indian Ocean",
+      "neighbors": "None (island nation)"
+    },
+    "sierra_leone": {
+      "capital": "Freetown",
+      "continent": "Africa",
+      "language": "English",
+      "currency": "Leone",
+      "population": "8 million",
+      "fun_fact": "Famous for its beaches and diamond resources",
+      "neighbors": "Guinea, Liberia"
+    },
+    "somalia": {
+      "capital": "Mogadishu",
+      "continent": "Africa",
+      "language": "Somali, Arabic",
+      "currency": "Somali Shilling",
+      "population": "17 million",
+      "fun_fact": "Longest coastline in mainland Africa",
+      "neighbors": "Djibouti, Ethiopia, Kenya"
+    },
+    "south_africa": {
+      "capital": "Pretoria (administrative), Cape Town (legislative)",
+      "continent": "Africa",
+      "language": "11 official languages including English, Zulu, Afrikaans",
+      "currency": "South African Rand",
+      "population": "60 million",
+      "fun_fact": "Home of Table Mountain and Kruger National Park",
+      "neighbors": "Namibia, Botswana, Zimbabwe, Mozambique, Eswatini, Lesotho"
+    },
+    "south_sudan": {
+      "capital": "Juba",
+      "continent": "Africa",
+      "language": "English",
+      "currency": "South Sudanese Pound",
+      "population": "11 million",
+      "fun_fact": "World’s newest country (independent in 2011)",
+      "neighbors": "Sudan, Ethiopia, Kenya, Uganda, DR Congo, Central African Republic"
+    },
+    "sudan": {
+      "capital": "Khartoum",
+      "continent": "Africa",
+      "language": "Arabic and English",
+      "currency": "Sudanese Pound",
+      "population": "45 million",
+      "fun_fact": "Home to ancient Nubian pyramids",
+      "neighbors": "Egypt, Libya, Chad, Central African Republic, South Sudan, Ethiopia, Eritrea"
+    },
+    "tanzania": {
+      "capital": "Dodoma",
+      "continent": "Africa",
+      "language": "Swahili and English",
+      "currency": "Tanzanian Shilling",
+      "population": "61 million",
+      "fun_fact": "Home to Mount Kilimanjaro and Serengeti National Park",
+      "neighbors": "Kenya, Uganda, Rwanda, Burundi, DR Congo, Zambia, Malawi, Mozambique"
+    },
+    "togo": {
+      "capital": "Lomé",
+      "continent": "Africa",
+      "language": "French",
+      "currency": "West African CFA franc",
+      "population": "8.6 million",
+      "fun_fact": "Small but densely populated West African country",
+      "neighbors": "Ghana, Burkina Faso, Benin"
+    },
+    "tunisia": {
+      "capital": "Tunis",
+      "continent": "Africa",
+      "language": "Arabic",
+      "currency": "Tunisian Dinar",
+      "population": "12 million",
+      "fun_fact": "Home to ancient Carthage",
+      "neighbors": "Algeria, Libya"
+    },
+    "uganda": {
+      "capital": "Kampala",
+      "continent": "Africa",
+      "language": "English and Swahili",
+      "currency": "Ugandan Shilling",
+      "population": "48 million",
+      "fun_fact": "Source of the Nile River",
+      "neighbors": "South Sudan, Kenya, Tanzania, Rwanda, DR Congo"
+    },
+    "zambia": {
+      "capital": "Lusaka",
+      "continent": "Africa",
+      "language": "English",
+      "currency": "Zambian Kwacha",
+      "population": "19 million",
+      "fun_fact": "Home to Victoria Falls (shared with Zimbabwe)",
+      "neighbors": "DR Congo, Tanzania, Malawi, Mozambique, Zimbabwe, Botswana, Namibia, Angola"
+    },
+    "zimbabwe": {
+      "capital": "Harare",
+      "continent": "Africa",
+      "language": "English, Shona, Sindebele",
+      "currency": "Zimbabwean Dollar",
+      "population": "16 million",
+      "fun_fact": "Famous for the Great Zimbabwe ruins",
+      "neighbors": "Zambia, Mozambique, South Africa, Botswana"
+    },
+    "afghanistan": {
+      "capital": "Kabul",
+      "continent": "Asia",
+      "language": "Pashto, Dari",
+      "currency": "Afghan Afghani",
+      "population": "41 million",
+      "fun_fact": "Known as the 'Land of the Afghans', rich in history and mountains",
+      "flag": "Black-red-green vertical tricolor with emblem",
+      "neighbors": "Pakistan, Iran, Turkmenistan, Uzbekistan, Tajikistan, China"
+    },
+    "armenia": {
+      "capital": "Yerevan",
+      "continent": "Asia",
+      "language": "Armenian",
+      "currency": "Armenian Dram",
+      "population": "3 million",
+      "fun_fact": "One of the earliest Christian civilizations",
+      "flag": "Red-blue-orange horizontal tricolor",
+      "neighbors": "Turkey, Georgia, Azerbaijan, Iran"
+    },
+    "azerbaijan": {
+      "capital": "Baku",
+      "continent": "Asia",
+      "language": "Azerbaijani",
+      "currency": "Azerbaijani Manat",
+      "population": "10 million",
+      "fun_fact": "Known for its mud volcanoes and the Caspian Sea coast",
+      "flag": "Blue-red-green horizontal with crescent and star",
+      "neighbors": "Russia, Georgia, Armenia, Iran, Turkey (Nakhchivan exclave)"
+    },
+    "bahrain": {
+      "capital": "Manama",
+      "continent": "Asia",
+      "language": "Arabic",
+      "currency": "Bahraini Dinar",
+      "population": "1.7 million",
+      "fun_fact": "Island country known for its banking and finance",
+      "flag": "White with red serrated band",
+      "neighbors": "None (island nation near Saudi Arabia)"
+    },
+    "bangladesh": {
+      "capital": "Dhaka",
+      "continent": "Asia",
+      "language": "Bengali",
+      "currency": "Bangladeshi Taka",
+      "population": "169 million",
+      "fun_fact": "One of the most densely populated countries in the world",
+      "flag": "Green with red circle",
+      "neighbors": "India, Myanmar"
+    },
+    "bhutan": {
+      "capital": "Thimphu",
+      "continent": "Asia",
+      "language": "Dzongkha",
+      "currency": "Ngultrum",
+      "population": "0.8 million",
+      "fun_fact": "Famous for measuring success with Gross National Happiness",
+      "flag": "Yellow and orange with dragon",
+      "neighbors": "India, China"
+    },
+    "brunei": {
+      "capital": "Bandar Seri Begawan",
+      "continent": "Asia",
+      "language": "Malay",
+      "currency": "Brunei Dollar",
+      "population": "0.44 million",
+      "fun_fact": "Richest nation in Southeast Asia per capita",
+      "flag": "Yellow with black and white diagonal stripes and crest",
+      "neighbors": "Malaysia"
+    },
+    "cambodia": {
+      "capital": "Phnom Penh",
+      "continent": "Asia",
+      "language": "Khmer",
+      "currency": "Riel",
+      "population": "17 million",
+      "fun_fact": "Famous for Angkor Wat temple complex",
+      "flag": "Blue-red-blue horizontal with temple emblem",
+      "neighbors": "Thailand, Laos, Vietnam"
+    },
+    "china": {
+      "capital": "Beijing",
+      "continent": "Asia",
+      "language": "Mandarin Chinese",
+      "currency": "Yuan (Renminbi)",
+      "population": "1.4 billion",
+      "fun_fact": "Most populous country, invented paper and gunpowder",
+      "flag": "Red with five yellow stars",
+      "neighbors": "14 countries including Russia, India, Vietnam, North Korea"
+    },
+    "georgia": {
+      "capital": "Tbilisi",
+      "continent": "Asia",
+      "language": "Georgian",
+      "currency": "Lari",
+      "population": "3.7 million",
+      "fun_fact": "Known for its mountainous landscapes and wine tradition",
+      "flag": "White with five red crosses",
+      "neighbors": "Russia, Turkey, Armenia, Azerbaijan"
+    },
+    "india": {
+      "capital": "New Delhi",
+      "continent": "Asia",
+      "language": "Hindi and English",
+      "currency": "Indian Rupee",
+      "population": "1.4 billion",
+      "fun_fact": "World's largest democracy",
+      "flag": "Saffron-white-green horizontal with blue wheel",
+      "neighbors": "Pakistan, China, Nepal, Bhutan, Bangladesh, Myanmar"
+    },
+    "indonesia": {
+      "capital": "Jakarta",
+      "continent": "Asia",
+      "language": "Indonesian",
+      "currency": "Rupiah",
+      "population": "273 million",
+      "fun_fact": "Largest archipelago in the world with over 17,000 islands",
+      "flag": "Red over white horizontal bicolor",
+      "neighbors": "Malaysia, Papua New Guinea, East Timor"
+    },
+    "iran": {
+      "capital": "Tehran",
+      "continent": "Asia",
+      "language": "Persian (Farsi)",
+      "currency": "Iranian Rial",
+      "population": "85 million",
+      "fun_fact": "One of the world’s oldest continuous civilizations",
+      "flag": "Green-white-red horizontal with emblem",
+      "neighbors": "Iraq, Turkey, Armenia, Azerbaijan, Turkmenistan, Afghanistan, Pakistan"
+    },
+    "iraq": {
+      "capital": "Baghdad",
+      "continent": "Asia",
+      "language": "Arabic and Kurdish",
+      "currency": "Iraqi Dinar",
+      "population": "41 million",
+      "fun_fact": "Home to ancient Mesopotamia, the 'Cradle of Civilization'",
+      "flag": "Red-white-black horizontal with green text",
+      "neighbors": "Iran, Turkey, Syria, Jordan, Saudi Arabia, Kuwait"
+    },
+    "israel": {
+      "capital": "Jerusalem",
+      "continent": "Asia",
+      "language": "Hebrew and Arabic",
+      "currency": "Israeli Shekel",
+      "population": "9.3 million",
+      "fun_fact": "Famous for historical and religious landmarks",
+      "flag": "White with blue Star of David and stripes",
+      "neighbors": "Lebanon, Syria, Jordan, Egypt, Palestine"
+    },
+    "japan": {
+      "capital": "Tokyo",
+      "continent": "Asia",
+      "language": "Japanese",
+      "currency": "Yen",
+      "population": "126 million",
+      "fun_fact": "Third-largest economy in the world",
+      "flag": "White with a red circle (rising sun)",
+      "neighbors": "Island nation - no land borders"
+    },
+    "jordan": {
+      "capital": "Amman",
+      "continent": "Asia",
+      "language": "Arabic",
+      "currency": "Jordanian Dinar",
+      "population": "10 million",
+      "fun_fact": "Home to the ancient city of Petra",
+      "flag": "Black, white, green horizontal with red triangle",
+      "neighbors": "Syria, Iraq, Saudi Arabia, Israel, Palestine"
+    },
+    "kazakhstan": {
+      "capital": "Nur-Sultan",
+      "continent": "Asia",
+      "language": "Kazakh, Russian",
+      "currency": "Tenge",
+      "population": "19 million",
+      "fun_fact": "Largest landlocked country in the world",
+      "neighbors": "Russia, China, Kyrgyzstan, Uzbekistan, Turkmenistan"
+    },
+    "kuwait": {
+      "capital": "Kuwait City",
+      "continent": "Asia",
+      "language": "Arabic",
+      "currency": "Kuwaiti Dinar",
+      "population": "4.3 million",
+      "fun_fact": "Known for its oil reserves and modern skyline",
+      "neighbors": "Iraq, Saudi Arabia"
+    },
+    "kyrgyzstan": {
+      "capital": "Bishkek",
+      "continent": "Asia",
+      "language": "Kyrgyz, Russian",
+      "currency": "Som",
+      "population": "6.7 million",
+      "fun_fact": "Known for its mountainous terrain and nomadic culture",
+      "neighbors": "Kazakhstan, Uzbekistan, Tajikistan, China"
+    },
+    "laos": {
+      "capital": "Vientiane",
+      "continent": "Asia",
+      "language": "Lao",
+      "currency": "Kip",
+      "population": "7.5 million",
+      "fun_fact": "Landlocked country known for its rivers and Buddhist temples",
+      "neighbors": "China, Vietnam, Cambodia, Thailand, Myanmar"
+    },
+    "lebanon": {
+      "capital": "Beirut",
+      "continent": "Asia",
+      "language": "Arabic",
+      "currency": "Lebanese Pound",
+      "population": "6.8 million",
+      "fun_fact": "Famous for ancient ruins and Mediterranean cuisine",
+      "neighbors": "Syria, Israel"
+    },
+    "malaysia": {
+      "capital": "Kuala Lumpur",
+      "continent": "Asia",
+      "language": "Malay",
+      "currency": "Malaysian Ringgit",
+      "population": "33 million",
+      "fun_fact": "Known for the Petronas Twin Towers and diverse culture",
+      "neighbors": "Thailand, Indonesia, Brunei"
+    },
+    "maldives": {
+      "capital": "Malé",
+      "continent": "Asia",
+      "language": "Dhivehi",
+      "currency": "Maldivian Rufiyaa",
+      "population": "0.5 million",
+      "fun_fact": "Lowest country in the world by average elevation",
+      "neighbors": "None (island nation in Indian Ocean)"
+    },
+    "mongolia": {
+      "capital": "Ulaanbaatar",
+      "continent": "Asia",
+      "language": "Mongolian",
+      "currency": "Tugrik",
+      "population": "3.4 million",
+      "fun_fact": "Known for vast steppes and nomadic culture",
+      "neighbors": "Russia, China"
+    },
+    "myanmar": {
+      "capital": "Naypyidaw",
+      "continent": "Asia",
+      "language": "Burmese",
+      "currency": "Kyat",
+      "population": "55 million",
+      "fun_fact": "Home to thousands of Buddhist pagodas",
+      "neighbors": "India, Bangladesh, China, Laos, Thailand"
+    },
+    "nepal": {
+      "capital": "Kathmandu",
+      "continent": "Asia",
+      "language": "Nepali",
+      "currency": "Nepalese Rupee",
+      "population": "30 million",
+      "fun_fact": "Home to Mount Everest, the highest peak on Earth",
+      "neighbors": "India, China"
+    },
+    "north_korea": {
+      "capital": "Pyongyang",
+      "continent": "Asia",
+      "language": "Korean",
+      "currency": "North Korean Won",
+      "population": "25 million",
+      "fun_fact": "Highly secretive and isolated country",
+      "flag": "Red-blue-white with red star",
+      "neighbors": "China, South Korea, Russia"
+    },
+    "oman": {
+      "capital": "Muscat",
+      "continent": "Asia",
+      "language": "Arabic",
+      "currency": "Omani Rial",
+      "population": "5.3 million",
+      "fun_fact": "Famous for desert landscapes and historic forts",
+      "neighbors": "United Arab Emirates, Saudi Arabia, Yemen"
+    },
+    "pakistan": {
+      "capital": "Islamabad",
+      "continent": "Asia",
+      "language": "Urdu and English",
+      "currency": "Pakistani Rupee",
+      "population": "240 million",
+      "fun_fact": "Home to the ancient Indus Valley Civilization",
+      "neighbors": "India, Afghanistan, Iran, China"
+    },
+    "palestine": {
+      "capital": "Ramallah (administrative), East Jerusalem (claimed)",
+      "continent": "Asia",
+      "language": "Arabic",
+      "currency": "Israeli Shekel, Jordanian Dinar",
+      "population": "5.2 million",
+      "fun_fact": "Historical region with many religious sites",
+      "neighbors": "Israel, Jordan, Egypt"
+    },
+    "philippines": {
+      "capital": "Manila",
+      "continent": "Asia",
+      "language": "Filipino, English",
+      "currency": "Philippine Peso",
+      "population": "113 million",
+      "fun_fact": "Archipelago of over 7,000 islands",
+      "neighbors": "None (maritime borders with Taiwan, Malaysia, Indonesia)"
+    },
+    "qatar": {
+      "capital": "Doha",
+      "continent": "Asia",
+      "language": "Arabic",
+      "currency": "Qatari Riyal",
+      "population": "2.9 million",
+      "fun_fact": "Richest country per capita in the Middle East",
+      "neighbors": "Saudi Arabia"
+    },
+    "saudi_arabia": {
+      "capital": "Riyadh",
+      "continent": "Asia",
+      "language": "Arabic",
+      "currency": "Saudi Riyal",
+      "population": "35 million",
+      "fun_fact": "Largest country in the Middle East, birthplace of Islam",
+      "neighbors": "Jordan, Iraq, Kuwait, Bahrain (maritime), Qatar, UAE, Oman, Yemen"
+    },
+    "singapore": {
+      "capital": "Singapore",
+      "continent": "Asia",
+      "language": "English, Malay, Mandarin, Tamil",
+      "currency": "Singapore Dollar",
+      "population": "5.9 million",
+      "fun_fact": "City-state and global financial hub",
+      "neighbors": "Malaysia, Indonesia (maritime)"
+    },
+    "south_korea": {
+      "capital": "Seoul",
+      "continent": "Asia",
+      "language": "Korean",
+      "currency": "South Korean Won",
+      "population": "52 million",
+      "fun_fact": "Highly developed technology and pop culture hub",
+      "neighbors": "North Korea"
+    },
+    "sri_lanka": {
+      "capital": "Sri Jayawardenepura Kotte (legislative), Colombo (commercial)",
+      "continent": "Asia",
+      "language": "Sinhala, Tamil",
+      "currency": "Sri Lankan Rupee",
+      "population": "21 million",
+      "fun_fact": "Island nation famous for tea and ancient ruins",
+      "neighbors": "None (island nation, near India)"
+    },
+    "syrian_arab_republic": {
+      "capital": "Damascus",
+      "continent": "Asia",
+      "language": "Arabic",
+      "currency": "Syrian Pound",
+      "population": "21 million",
+      "fun_fact": "One of the oldest continuously inhabited regions",
+      "neighbors": "Turkey, Iraq, Jordan, Israel, Lebanon"
+    },
+    "tajikistan": {
+      "capital": "Dushanbe",
+      "continent": "Asia",
+      "language": "Tajik",
+      "currency": "Somoni",
+      "population": "10 million",
+      "fun_fact": "Mountainous country, over 90% of land is mountains",
+      "neighbors": "Afghanistan, China, Kyrgyzstan, Uzbekistan"
+    },
+    "thailand": {
+      "capital": "Bangkok",
+      "continent": "Asia",
+      "language": "Thai",
+      "currency": "Thai Baht",
+      "population": "69 million",
+      "fun_fact": "Known as the 'Land of Smiles' and famous for tourism",
+      "neighbors": "Myanmar, Laos, Cambodia, Malaysia"
+    },
+    "antigua_and_barbuda": {
+      "capital": "St. John's",
+      "continent": "North America",
+      "language": "English",
+      "currency": "East Caribbean Dollar",
+      "population": "0.1 million",
+      "fun_fact": "Known for beaches and resorts",
+      "neighbors": "None (island nation)"
+    },
+    "bahamas": {
+      "capital": "Nassau",
+      "continent": "North America",
+      "language": "English",
+      "currency": "Bahamian Dollar",
+      "population": "0.4 million",
+      "fun_fact": "Archipelago of over 700 islands",
+      "neighbors": "None (island nation)"
+    },
+    "barbados": {
+      "capital": "Bridgetown",
+      "continent": "North America",
+      "language": "English",
+      "currency": "Barbadian Dollar",
+      "population": "0.3 million",
+      "fun_fact": "Famous for beaches and rum",
+      "neighbors": "None (island nation)"
+    },
+    "belize": {
+      "capital": "Belmopan",
+      "continent": "North America",
+      "language": "English",
+      "currency": "Belize Dollar",
+      "population": "0.4 million",
+      "fun_fact": "Home to the second largest barrier reef in the world",
+      "neighbors": "Mexico, Guatemala"
+    },
+    "canada": {
+      "capital": "Ottawa",
+      "continent": "North America",
+      "language": "English and French",
+      "currency": "Canadian Dollar",
+      "population": "39 million",
+      "fun_fact": "Second largest country in the world by area",
+      "neighbors": "USA"
+    },
+    "costa_rica": {
+      "capital": "San José",
+      "continent": "North America",
+      "language": "Spanish",
+      "currency": "Costa Rican Colón",
+      "population": "5 million",
+      "fun_fact": "Known for biodiversity and eco-tourism",
+      "neighbors": "Nicaragua, Panama"
+    },
+    "cuba": {
+      "capital": "Havana",
+      "continent": "North America",
+      "language": "Spanish",
+      "currency": "Cuban Peso",
+      "population": "11 million",
+      "fun_fact": "Famous for cigars, music, and classic cars",
+      "neighbors": "None (island nation, near USA & Mexico)"
+    },
+    "dominica": {
+      "capital": "Roseau",
+      "continent": "North America",
+      "language": "English",
+      "currency": "East Caribbean Dollar",
+      "population": "0.07 million",
+      "fun_fact": "Known as the 'Nature Island' for rainforests and rivers",
+      "neighbors": "None (island nation)"
+    },
+    "dominican_republic": {
+      "capital": "Santo Domingo",
+      "continent": "North America",
+      "language": "Spanish",
+      "currency": "Dominican Peso",
+      "population": "11 million",
+      "fun_fact": "Shares the island of Hispaniola with Haiti",
+      "neighbors": "Haiti"
+    },
+    "el_salvador": {
+      "capital": "San Salvador",
+      "continent": "North America",
+      "language": "Spanish",
+      "currency": "US Dollar",
+      "population": "6.5 million",
+      "fun_fact": "Smallest and most densely populated country in Central America",
+      "neighbors": "Guatemala, Honduras"
+    },
+    "grenada": {
+      "capital": "St. George's",
+      "continent": "North America",
+      "language": "English",
+      "currency": "East Caribbean Dollar",
+      "population": "0.1 million",
+      "fun_fact": "Known as the 'Spice Island' for its nutmeg production",
+      "neighbors": "None (island nation)"
+    },
+    "guatemala": {
+      "capital": "Guatemala City",
+      "continent": "North America",
+      "language": "Spanish",
+      "currency": "Quetzal",
+      "population": "18 million",
+      "fun_fact": "Home to ancient Mayan ruins",
+      "neighbors": "Mexico, Belize, Honduras, El Salvador"
+    },
+    "haiti": {
+      "capital": "Port-au-Prince",
+      "continent": "North America",
+      "language": "French, Haitian Creole",
+      "currency": "Gourde",
+      "population": "11 million",
+      "fun_fact": "First independent Caribbean nation",
+      "neighbors": "Dominican Republic"
+    },
+    "honduras": {
+      "capital": "Tegucigalpa",
+      "continent": "North America",
+      "language": "Spanish",
+      "currency": "Lempira",
+      "population": "10 million",
+      "fun_fact": "Known for Mayan ruins and Caribbean coast",
+      "neighbors": "Guatemala, El Salvador, Nicaragua"
+    },
+    "jamaica": {
+      "capital": "Kingston",
+      "continent": "North America",
+      "language": "English",
+      "currency": "Jamaican Dollar",
+      "population": "3 million",
+      "fun_fact": "Famous for reggae music and coffee",
+      "neighbors": "None (island nation)"
+    },
+    "mexico": {
+      "capital": "Mexico City",
+      "continent": "North America",
+      "language": "Spanish",
+      "currency": "Mexican Peso",
+      "population": "128 million",
+      "fun_fact": "Known for ancient civilizations like Aztec and Maya",
+      "neighbors": "USA, Guatemala, Belize"
+    },
+    "nicaragua": {
+      "capital": "Managua",
+      "continent": "North America",
+      "language": "Spanish",
+      "currency": "Córdoba",
+      "population": "7 million",
+      "fun_fact": "Home to many lakes and volcanoes",
+      "neighbors": "Honduras, Costa Rica"
+    },
+    "panama": {
+      "capital": "Panama City",
+      "continent": "North America",
+      "language": "Spanish",
+      "currency": "Balboa, US Dollar",
+      "population": "4.3 million",
+      "fun_fact": "Famous for the Panama Canal connecting Atlantic and Pacific Oceans",
+      "neighbors": "Costa Rica, Colombia"
+    },
+    "saint_kitts_and_nevis": {
+      "capital": "Basseterre",
+      "continent": "North America",
+      "language": "English",
+      "currency": "East Caribbean Dollar",
+      "population": "0.05 million",
+      "fun_fact": "Smallest sovereign state in the Western Hemisphere",
+      "neighbors": "None (island nation)"
+    },
+    "saint_lucia": {
+      "capital": "Castries",
+      "continent": "North America",
+      "language": "English",
+      "currency": "East Caribbean Dollar",
+      "population": "0.18 million",
+      "fun_fact": "Famous for the Pitons, twin volcanic spires",
+      "neighbors": "None (island nation)"
+    },
+    "saint_vincent_and_the_grenadines": {
+      "capital": "Kingstown",
+      "continent": "North America",
+      "language": "English",
+      "currency": "East Caribbean Dollar",
+      "population": "0.11 million",
+      "fun_fact": "Archipelago known for beaches and sailing",
+      "neighbors": "None (island nation)"
+    },
+    "trinidad_and_tobago": {
+      "capital": "Port of Spain",
+      "continent": "North America",
+      "language": "English",
+      "currency": "Trinidad and Tobago Dollar",
+      "population": "1.4 million",
+      "fun_fact": "Famous for Carnival and steelpan music",
+      "neighbors": "None (island nation, near Venezuela)"
+    },
+    "argentina": {
+      "capital": "Buenos Aires",
+      "continent": "South America",
+      "language": "Spanish",
+      "currency": "Argentine Peso",
+      "population": "46 million",
+      "fun_fact": "Famous for tango and Patagonia",
+      "neighbors": "Chile, Bolivia, Paraguay, Brazil, Uruguay"
+    },
+    "bolivia": {
+      "capital": "Sucre (constitutional), La Paz (administrative)",
+      "continent": "South America",
+      "language": "Spanish, Quechua, Aymara",
+      "currency": "Boliviano",
+      "population": "12 million",
+      "fun_fact": "Home to the world’s largest salt flat, Salar de Uyuni",
+      "neighbors": "Brazil, Paraguay, Argentina, Chile, Peru"
+    },
+    "brazil": {
+      "capital": "Brasília",
+      "continent": "South America",
+      "language": "Portuguese",
+      "currency": "Brazilian Real",
+      "population": "215 million",
+      "fun_fact": "Largest country in South America and home to most of the Amazon rainforest",
+      "neighbors": "Argentina, Bolivia, Colombia, French Guiana, Guyana, Paraguay, Peru, Suriname, Uruguay, Venezuela"
+    },
+    "chile": {
+      "capital": "Santiago",
+      "continent": "South America",
+      "language": "Spanish",
+      "currency": "Chilean Peso",
+      "population": "19 million",
+      "fun_fact": "Longest north-south country in the world",
+      "neighbors": "Peru, Bolivia, Argentina"
+    },
+    "colombia": {
+      "capital": "Bogotá",
+      "continent": "South America",
+      "language": "Spanish",
+      "currency": "Colombian Peso",
+      "population": "51 million",
+      "fun_fact": "Known for coffee, biodiversity, and emeralds",
+      "neighbors": "Venezuela, Brazil, Peru, Ecuador, Panama"
+    },
+    "ecuador": {
+      "capital": "Quito",
+      "continent": "South America",
+      "language": "Spanish",
+      "currency": "US Dollar",
+      "population": "17 million",
+      "fun_fact": "Home to the Galápagos Islands",
+      "neighbors": "Colombia, Peru"
+    },
+    "guyana": {
+      "capital": "Georgetown",
+      "continent": "South America",
+      "language": "English",
+      "currency": "Guyanese Dollar",
+      "population": "0.8 million",
+      "fun_fact": "Only English-speaking country in South America",
+      "neighbors": "Venezuela, Brazil, Suriname"
+    },
+    "paraguay": {
+      "capital": "Asunción",
+      "continent": "South America",
+      "language": "Spanish, Guaraní",
+      "currency": "Guaraní",
+      "population": "7 million",
+      "fun_fact": "Landlocked country with rich hydroelectric resources",
+      "neighbors": "Argentina, Brazil, Bolivia"
+    },
+    "peru": {
+      "capital": "Lima",
+      "continent": "South America",
+      "language": "Spanish, Quechua, Aymara",
+      "currency": "Sol",
+      "population": "33 million",
+      "fun_fact": "Home to Machu Picchu and the Andes mountains",
+      "neighbors": "Ecuador, Colombia, Brazil, Bolivia, Chile"
+    },
+    "suriname": {
+      "capital": "Paramaribo",
+      "continent": "South America",
+      "language": "Dutch",
+      "currency": "Surinamese Dollar",
+      "population": "0.6 million",
+      "fun_fact": "Smallest country in South America by area",
+      "neighbors": "Guyana, Brazil, French Guiana"
+    },
+    "uruguay": {
+      "capital": "Montevideo",
+      "continent": "South America",
+      "language": "Spanish",
+      "currency": "Uruguayan Peso",
+      "population": "3.5 million",
+      "fun_fact": "Known for beaches and the tango",
+      "neighbors": "Argentina, Brazil"
+    },
+    "venezuela": {
+      "capital": "Caracas",
+      "continent": "South America",
+      "language": "Spanish",
+      "currency": "Venezuelan Bolívar",
+      "population": "28 million",
+      "fun_fact": "Home to Angel Falls, the world’s highest waterfall",
+      "neighbors": "Colombia, Brazil, Guyana"
+    }
+  }

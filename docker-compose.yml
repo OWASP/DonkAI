@@ -1,0 +1,70 @@
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: donk-ai-db
+    environment:
+      POSTGRES_DB: donk_ai_lab
+      POSTGRES_USER: labuser
+      POSTGRES_PASSWORD: labpass123
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U labuser -d donk_ai_lab"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - donk-ai-network
+
+  ml-service:
+    build: ./ml-service
+    container_name: donk-ai-ml
+    ports:
+      - "8000:8000"
+    environment:
+      DATABASE_URL: postgresql://labuser:labpass123@postgres:5432/donk_ai_lab
+      PYTHONUNBUFFERED: 1
+    volumes:
+      - ./ml-service:/app
+      - ./ml-service/data:/app/data
+    depends_on:
+      postgres:
+        condition: service_healthy
+    command: >
+      sh -c "uvicorn api:app --host 0.0.0.0 --port 8000 --reload"
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:8000/health || exit 1"]
+      interval: 30s
+      timeout: 5s
+      retries: 5
+      start_period: 10s
+    networks:
+      - donk-ai-network
+
+  webapp:
+    build: ./webapp
+    container_name: donk-ai-webapp
+    ports:
+      - "3000:3000"
+    environment:
+      REACT_APP_API_URL: http://localhost:8000
+      CHOKIDAR_USEPOLLING: "true"
+    volumes:
+      - ./webapp:/app
+      - /app/node_modules
+    depends_on:
+      ml-service:
+        condition: service_healthy
+    stdin_open: true
+    tty: true
+    networks:
+      - donk-ai-network
+
+volumes:
+  postgres_data:
+
+networks:
+  donk-ai-network:
+    driver: bridge
